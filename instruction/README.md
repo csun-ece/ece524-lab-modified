@@ -22,11 +22,11 @@ In this lab you are going to implement an 8-bit unsigned multiplier (Right shift
 ## About MNIST
 The MNIST database (Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is commonly used for training various image processing systems.
 
-![mnist]()./img/mnist.png)
+![mnist](./img/mnist.png)
 
 Each image is 28 x 28 pixel
 
-![mnist]()./img/mnist_img.png)
+![mnist](./img/mnist_img.png)
 
 Pixel values are recorded in a 784 1D array (784 = 28 x 28) where element 0 corresponds to pixel (0,0) and element 783 corresponds to pixel (28,28).
 
