@@ -96,3 +96,5 @@ The following is an example waveform:
 Example output result:
 
 ![mnist](./img/example_output.png)
+
+:point_right: **Task 5:** Provide FPGA resource utilization for your design.
