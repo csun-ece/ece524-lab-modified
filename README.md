@@ -1,5 +1,5 @@
-# CSUN ECE 524L Fall 2021
-## Lab 5 - Arithmetic
+# CSUN ECE Fall 2021
+## Lab - Arithmetic
 
 **Report Created by:**
 - Group n (If applicable)
